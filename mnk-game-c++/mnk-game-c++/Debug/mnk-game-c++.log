@@ -1,0 +1,3 @@
+﻿  Program.cpp
+c:\users\donny\source\repos\mnk-game-c++\mnk-game-c++\program.cpp(118): warning C4101: 'e': unreferenced local variable
+  mnk-game-c++.vcxproj -> C:\Users\Donny\source\repos\mnk-game-c++\Debug\mnk-game-c++.exe

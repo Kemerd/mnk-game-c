@@ -1,0 +1,14 @@
+C:\Users\Donny\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Donny\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Donny\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Donny\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\mnkgame.csprojAssemblyReference.cache
+C:\Users\Donny\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\mnkgame.csproj.CoreCompileInputs.cache
+C:\Users\Donny\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Donny\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Donny\source\repos\ConsoleApp1\mnkgame\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Donny\source\repos\ConsoleApp1\mnkgame\bin\Debug\ConsoleApp1.exe
+C:\Users\Donny\source\repos\ConsoleApp1\mnkgame\bin\Debug\ConsoleApp1.pdb
+C:\Users\Donny\source\repos\ConsoleApp1\mnkgame\obj\Debug\mnkgame.csprojAssemblyReference.cache
+C:\Users\Donny\source\repos\ConsoleApp1\mnkgame\obj\Debug\mnkgame.csproj.CoreCompileInputs.cache
+C:\Users\Donny\source\repos\ConsoleApp1\mnkgame\obj\Debug\ConsoleApp1.exe
+C:\Users\Donny\source\repos\ConsoleApp1\mnkgame\obj\Debug\ConsoleApp1.pdb
