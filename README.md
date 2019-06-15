@@ -1,5 +1,5 @@
 # mnk-game
-A clean and documented implementation of the mnk game in C#. Uses backtracking + a custom search depth algorithm to check for win conditions. Allows for move undoing as well. 
+A clean and documented implementation of the mnk game in C# & C++. Uses backtracking + a custom search depth algorithm to check for win conditions. Allows for move undoing as well. 
 
 Runs in the command line.
 
